@@ -1,7 +1,6 @@
 # 🌕 Vue + TypeScript + Vite 한가위 웹페이지 프로젝트
 
-[🔗 **배포 링크**](https://yeeuneey.github.io/vue-static-page/)
-
+**🔗 배포 링크:** <https://yeeuneey.github.io/vue-static-page/>
 ---
 
 ## ✨ 주요 기능
